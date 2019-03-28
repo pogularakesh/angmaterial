@@ -13,6 +13,7 @@ import { DragDropModule } from '@angular/cdk/drag-drop';
 @NgModule({
   declarations: [
     AppComponent
+    //module
   ],
   imports: [
     BrowserModule,MatCardModule,MatExpansionModule,MatIconModule,DragDropModule,
